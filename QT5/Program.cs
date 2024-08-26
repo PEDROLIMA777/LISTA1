@@ -7,7 +7,7 @@ multiplicadores (um para condições climáticas e outro para estado do veículo
 distância total percorrida.
 
 @Lista: 01 - Lógica de Programação
-@Autor: PEDRO ÍCARO
+@Autor: PEDRO LIMA
 @Data: 20/08/2024
 ---------------------------------------------------------------------*/
 using System;

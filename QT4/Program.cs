@@ -6,7 +6,7 @@ de moedas aumenta.
 exibindo o total de moedas coletadas ao final.
 
 @Lista: 01 - Lógica de Programação
-@Autor: PEDRO ÍCARO
+@Autor: PEDRO LIMA
 @Data: 20/08/2024
 ---------------------------------------------------------------------*/
 using System;

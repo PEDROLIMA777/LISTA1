@@ -5,7 +5,7 @@ as informações básicas do personagem antes de começar a aventura.
 • Comando: Crie um programa que receba o nome, idade, nível inicial,
 classe, e raça do personagem e exiba esses dados no console.
 @Lista: 01 - Lógica de Programação
-@Autor: PEDRO ÍCARO
+@Autor: PEDRO LIMA
 @Data: 20/08/2024
 ---------------------------------------------------------------------*/
 using System;

@@ -10,7 +10,7 @@ tipo de inimigo derrotado, e a constante de nível. O programa deve calcular o X
 acumulado após a batalha e determinar o nível atual do jogador.
 
 @Lista: 01 - Lógica de Programação
-@Autor: PEDRO ÍCARO
+@Autor: PEDRO LIMA
 @Data: 20/08/2024
 ---------------------------------------------------------------------*/
 using System;

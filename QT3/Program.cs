@@ -7,7 +7,7 @@ regeneração, do atacado, e dois modificadores, do atacante, (um para equipamen
 para habilidades), e calcule a vida restante.
 
 @Lista: 01 - Lógica de Programação
-@Autor: PEDRO ÍCARO
+@Autor: PEDRO LIMA
 @Data: 20/08/2024
 ---------------------------------------------------------------------*/
 using System;

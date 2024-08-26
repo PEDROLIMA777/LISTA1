@@ -8,7 +8,7 @@ Comando: habilidades, um modificador de crítico, e um modificador para o tipo d
 programa deve calcular o total de ataque do personagem 
 
 @Lista: 01 - Lógica de Programação
-@Autor: PEDRO ÍCARO
+@Autor: PEDRO LIMA
 @Data: 25/08/2024
 ---------------------------------------------------------------------*/
 

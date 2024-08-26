@@ -6,8 +6,8 @@ cada nível alcançado.
 por nível, e calcule a quantidade de pontos de vida após alcançar um novo nível. 
 
 @Lista: 01 - Lógica de Programação
-@Autor: pEDRO ÍCARO
-@Data: 21/08/2024
+@Autor: PEDRO LIMA
+@Data: 25/08/2024
 ---------------------------------------------------------------------*/
 
 using System;

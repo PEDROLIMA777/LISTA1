@@ -7,7 +7,7 @@ por inimigo, bônus por missão, e dois multiplicadores (um para tipo de inimigo
 dificuldade), e então calcule e exiba a pontuação final.
 
 @Lista: 01 - Lógica de Programação
-@Autor: PEDRO ÍCARO
+@Autor: PEDRO LIMA
 @Data: 20/08/2024
 ---------------------------------------------------------------------*/
 using System;
